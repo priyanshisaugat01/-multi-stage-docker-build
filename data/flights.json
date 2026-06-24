@@ -1,0 +1,5 @@
+[
+  { "flight": "AI202", "origin": "Delhi", "destination": "Mumbai", "status": "On-Time" },
+  { "flight": "LH760", "origin": "Frankfurt", "destination": "Delhi", "status": "Delayed" },
+  { "flight": "EK511", "origin": "Dubai", "destination": "Delhi", "status": "Cancelled" }
+]
