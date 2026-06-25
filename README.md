@@ -9,6 +9,12 @@ The sample application is a simple Node.js web app that serves as a demonstratio
 - Clear separation of dependencies and runtime environment
 - Ready for deployment to cloud platforms such as AWS, Kubernetes, or Docker Hub
 
+## Live Demo
+View the running application here:  
+[Multi-Stage Docker Build Demo
+https://github.com/priyanshisaugat01/-multi-stage-docker-build.git      
+
+
 ## Running Locally
 To run the application without Docker:
 
